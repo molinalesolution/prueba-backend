@@ -16,8 +16,8 @@ API RESTful desarrollada en **Laravel 13** con **PHP 8.3** para la gestión de p
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
-   cd prueba-backend
+ git clone https://github.com/molinalesolution/prueba-backend.git
+ cd prueba-backend
    ```
 
 2. **Instalar dependencias:**
